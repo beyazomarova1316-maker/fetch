@@ -10,7 +10,6 @@ function showCharacters() {
 
         const card = document.createElement("article");
         card.className = "card";
-
         const picture = document.createElement("div");
         picture.className = "picture";
 
